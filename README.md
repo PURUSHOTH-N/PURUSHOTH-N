@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Purushoth
 
-🌱 Currently learning **Web Development**  
+🌱 Currently learning **Web Development using Java**
 💻 Working with **Java, Spring Boot, Maven**  
 ⚡ Exploring **Open Source & GitHub Projects**  
-📫 Reach me on [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
+ 
 
 ---
 
