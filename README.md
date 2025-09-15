@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Purushoth
 
-<!--
-**PURUSHOTH-N/PURUSHOTH-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning **Web Development**  
+💻 Working with **Java, Spring Boot, Maven**  
+⚡ Exploring **Open Source & GitHub Projects**  
+📫 Reach me on [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PURUSHOTH-N&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PURUSHOTH-N&theme=radical)
+
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PURUSHOTH-N&theme=github)
