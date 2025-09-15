@@ -16,5 +16,7 @@
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=PURUSHOTH-N&theme=radical)
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PURUSHOTH-N&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PURUSHOTH-N&theme=github)
